@@ -23,6 +23,8 @@ http://laurl/dequienseasubida/a/git
 http://laurl/dequienseasubida/a/git
 
 #AUTONOMICOS
+#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES: Aragon TV HD" tvg-logo="" group-title="",Aragón TV
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 #EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES: Aragon" tvg-logo="" group-title="",Aragón TV
 http://laurl/dequienseasubida/a/git
 
