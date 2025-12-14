@@ -1,5 +1,5 @@
 #GENERALES
-#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES: LA 1" tvg-logo="" group-title="",LA 1 HD
+#EXTINF:-1 tvg-ID="LA 1 HD" tvg-name="ES: LA 1 UHD 4K" tvg-logo="" group-title="",LA 1 UHD
 http://laurl/dequienseasubida/a/git
 #EXTINF:-1 tvg-ID="La 2" tvg-name="ES: LA 2 HD" tvg-logo="" group-title="",LA 2 HD
 http://laurl/dequienseasubida/a/git
@@ -23,9 +23,9 @@ http://laurl/dequienseasubida/a/git
 http://laurl/dequienseasubida/a/git
 
 #AUTONOMICOS
-#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES: Aragon TV HD" tvg-logo="" group-title="",Aragón TV
+#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES: Aragon TV HD" tvg-logo="" group-title="",Aragón TV FHD
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
-#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES: Aragon" tvg-logo="" group-title="",Aragón TV
+#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES: Aragon" tvg-logo="" group-title="",Aragón TV Int
 http://laurl/dequienseasubida/a/git
 
 #FUTBOL
