@@ -13,9 +13,9 @@ http://laurl/dequienseasubida/a/git
 http://laurl/dequienseasubida/a/git
 
 #MOVISTAR
-#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="ES: M+ Plus FHD" tvg-logo="" group-title="",M. Plus FHD
+#EXTINF:-1 tvg-ID="M+ Cero" tvg-name="ES: M+ Plus FHD" tvg-logo="" group-title="",M. Plus FHD
 http://laurl/dequienseasubida/a/git
-#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="ES: M+ Plus HD" tvg-logo="" group-title="",M. Plus
+#EXTINF:-1 tvg-ID="M+ Cero" tvg-name="ES: M+ Plus HD" tvg-logo="" group-title="",M. Plus
 http://laurl/dequienseasubida/a/git
 #EXTINF:-1 tvg-ID="M+ Vamos HD" tvg-name="ES: M+ Vamos FHD" tvg-logo="" group-title="",# Vamos FHD
 http://laurl/dequienseasubida/a/git
